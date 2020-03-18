@@ -12,7 +12,7 @@ namespace FApi.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "value1", "张彦隆" };
         }
 
         // GET api/values/5
